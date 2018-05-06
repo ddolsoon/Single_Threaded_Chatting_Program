@@ -1,0 +1,5 @@
+﻿  Server.cpp
+c:\users\administrator\desktop\자료구조 프로젝트#2\kakaotalk_project#2(2015110474김민성)\kakaotalk\client.h(19): warning C4005: 'LINE': 매크로 재정의
+  c:\users\administrator\desktop\자료구조 프로젝트#2\kakaotalk_project#2(2015110474김민성)\kakaotalk\member.h(3): note: 'LINE'의 이전 정의를 참조하십시오.
+c:\users\administrator\desktop\자료구조 프로젝트#2\kakaotalk_project#2(2015110474김민성)\kakaotalk\server.cpp(656): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+  KakaoTalk.vcxproj -> C:\Users\Administrator\Desktop\자료구조 프로젝트#2\KaKaoTalk_Project#2(2015110474김민성)\x64\Debug\KakaoTalk.exe
